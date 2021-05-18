@@ -1,6 +1,6 @@
 {
     "name": "mawuva/php-container",
-    "description": "Demo of a simple container service for php",
+    "description": "Demo of a simple container service for php using psr container",
     "type": "library",
     "license": "MIT",
     "authors": [
